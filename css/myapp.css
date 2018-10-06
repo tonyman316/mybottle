@@ -1,0 +1,31 @@
+/* Author: Tung Hoi Man */
+header {
+  background-color: #00305C;
+}
+
+#logo {
+  margin-top: 30px;
+  width: 300px;
+  height: 150;
+}
+
+#date {
+	color: white;
+	margin-right: 10px;
+	margin-top: 100px;
+	text-align: right;
+}
+
+.btn-text {
+	color: white;
+	font-weight: bold;
+}
+
+.p-margin {
+	margin-top: 0em;
+	margin-bottom: 2em;
+}
+
+.p-border {
+	border: 2px solid black;
+}
